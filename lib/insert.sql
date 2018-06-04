@@ -6,7 +6,7 @@ INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES("Tabitha
 
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES("Sergeant Brown", 3, "M", "green", "mad", 1);
 
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES("Melissa", 2, "M", "blue", "happy", 1);
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES("Melissa", 2, "M", "blue", "goofy", 1);
 
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES("Grinch", 8, "M", "black", "grumpy", 1);
 
